@@ -12,6 +12,15 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      keyframes: {
+        breathe: {
+          "0%, 100%": { backgroundSize: "50% 100%" },
+          "50%": { backgroundSize: "110% 110%" },
+        },
+      },
+      animation: {
+        breathe: "breathe 10s ease-in-out infinite",
+      },
     },
   },
   plugins: [],
