@@ -17,6 +17,13 @@ const Projects = () => {
         "SleepOutside was a project my team and I completed in my College course. We learned how to work mainly on the backend of web apps, and it taught me proper structure.",
       projectUrl: "https://rainbow-daifuku-3cbcdd.netlify.app/",
     },
+    {
+      imageUrl: "Local-Event-Finder.png",
+      name: "Local Event Finder",
+      description:
+        "This application allows you to see events coming up accross the United States. I display all these events using the TicketMaster Discover API key.",
+      projectUrl: "https://mckadedaines.github.io/Local_Event_Finder/",
+    },
   ];
 
   return (
