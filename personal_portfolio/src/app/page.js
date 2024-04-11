@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import Projects from "./Projects";
 
 export default function Home() {
   return (
@@ -38,13 +39,62 @@ export default function Home() {
           underlying hardware interactions.
         </p>
       </div>
-      <div className="skills-container">
+      <div className="text-center mt-12 mb-6">
+        <h3
+          className="text-4xl font-bold text-white tracking-wider"
+          style={{ fontFamily: "'Merriweather', serif" }}
+        >
+          Skills
+        </h3>
+      </div>
+      <div className="skills-container flex flex-wrap justify-center items-center mt-8">
+        <img
+          src="javascript-icon.png"
+          alt="Javascript Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2"
+        />
         <img
           src="html-5-icon.png"
           alt="HTML Icon"
-          className="image-hover-effect"
+          className="image-hover-effect w-24 h-24 mx-2 my-2"
+        />
+        <img
+          src="css-3-icon.png"
+          alt="CSS Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2"
+        />
+        <img
+          src="expo_icon.png"
+          alt="EXPO Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2 filter invert brightness-100 contrast-100"
+        />
+        <img
+          src="Firebase_icon.svg.png"
+          alt="Firebase Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2"
+        />
+        <img
+          src="next-js-icon.png"
+          alt="Next.js Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2 filter invert brightness-100 contrast-100"
+        />
+        <img
+          src="python.png"
+          alt="Python Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2"
+        />
+        <img
+          src="React-icon.svg.png"
+          alt="React.js Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2"
+        />
+        <img
+          src="Vercel_favicon.svg"
+          alt="Vercel Icon"
+          className="image-hover-effect w-24 h-24 mx-2 my-2 filter invert brightness-100 contrast-100"
         />
       </div>
+      <Projects />
     </main>
   );
 }
