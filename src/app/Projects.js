@@ -4,7 +4,15 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   const projectList = [
     {
+      imageUrl: "SLP.png",
+      name: "SLP Toolkit",
+      description:
+        "SLP Toolkit brought me onto the team as a Jr. Full Stack Developer. I was tasked with fixing bugs, adding new features, refactoring code, and performing Research and Development in collaboration with the CEO and CTO.",
+      projectUrl: "https://kit-git-master-slptk.vercel.app/auth/login",
+    },
+    {
       imageUrl: "Ama-Employee-Login.png",
+
       name: "American Medical Associates",
       description:
         "American Medical Associates employeed me to create an emplyoee website, and to transform their business into 90% virtual. (Due to HIPPA regulations, I cannot show more than this.)",
