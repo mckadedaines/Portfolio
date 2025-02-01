@@ -1,0 +1,16 @@
+[
+  {
+    "imageUrl": "SLP.png",
+    "name": "SLP Toolkit",
+    "description": "Led development initiatives for a comprehensive Speech-Language Pathology platform, implementing critical features and optimizing performance through modern React patterns and cloud architecture.",
+    "projectUrl": "https://kit-git-master-slptk.vercel.app/auth/login",
+    "tags": ["React", "Next.js", "Firebase", "Cloud Architecture"]
+  },
+  {
+    "imageUrl": "Ama-Employee-Login.png",
+    "name": "American Medical Associates Portal",
+    "description": "Engineered a HIPAA-compliant digital transformation solution, enabling secure virtual healthcare operations and streamlining internal processes for medical staff.",
+    "projectUrl": "https://ama-employee-website-official.vercel.app/Login",
+    "tags": ["Healthcare Tech", "Security", "React", "Cloud Infrastructure"]
+  }
+]
