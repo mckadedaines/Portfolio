@@ -1,10 +1,17 @@
 [
   {
-    "imageUrl": "SleepOutside.png",
-    "name": "SleepOutside E-Commerce",
-    "description": "Developed a full-stack e-commerce platform with robust backend architecture, implementing secure payment processing and inventory management systems.",
-    "projectUrl": "https://rainbow-daifuku-3cbcdd.netlify.app/",
-    "tags": ["E-Commerce", "Full Stack", "Payment Integration"]
+    "imageUrl": "WeebWear.png",
+    "name": "WeebWear",
+    "description": "A web application that allows users to buy anime-related merchandise for the gym.",
+    "projectUrl": "weeb-wear-chi.vercel.app",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "MUI",
+      "Framer Motion",
+      "Next.js",
+      "Zustand"
+    ]
   },
   {
     "imageUrl": "Local-Event-Finder.png",
