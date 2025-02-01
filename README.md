@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mckade Daines - Professional Portfolio
 
-## Getting Started
+A modern, responsive portfolio website built with Next.js, showcasing my work as a Full Stack Developer and Software Engineer. The site features a sleek design with interactive elements, smooth animations, and a comprehensive display of my technical skills and projects.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Modern UI/UX**: Implemented with a beautiful dark theme, gradient accents, and glass-morphism effects
+- **Responsive Design**: Fully responsive layout that works seamlessly across all devices
+- **Interactive Components**:
+  - Animated skill cards with hover effects
+  - Project showcase with dynamic cards
+  - Contact modal with smooth transitions
+  - Animated hero section
+- **Performance Optimized**: Built with Next.js for optimal loading and rendering performance
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technical Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Frontend Framework**: Next.js with React
+- **Styling**: Tailwind CSS with custom animations
+- **Animations**: Framer Motion
+- **Deployment**: Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📂 Project Structure
 
-## Learn More
+- `/src/app/components/sections/` - Main section components (Hero, Skills, Projects)
+- `/src/app/components/ui/` - Reusable UI components
+- `/public/` - Static assets and images
+- `/src/app/globals.css` - Global styles and animations
 
-To learn more about Next.js, take a look at the following resources:
+## 🎨 Featured Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- SLP Toolkit - Speech-Language Pathology Platform
+- American Medical Associates Portal - HIPAA-compliant Healthcare Solution
+- SleepOutside E-Commerce - Full-stack E-commerce Platform
+- Event Discovery Platform - Real-time Event Finding Application
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📫 Contact
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Email: mckadedaines1@gmail.com
+- Phone: 480-266-0723
+- GitHub: [mckadedaines](https://github.com/mckadedaines)
