@@ -14,7 +14,6 @@ const skillsData = [
       { name: "HTML5", icon: "html-5-icon.png" },
       { name: "CSS3", icon: "css-3-icon.png" },
       { name: "Expo", icon: "expo_icon.png" },
-      { name: "Storybook", icon: "storybook-icon.svg" },
     ],
   },
   {
@@ -35,8 +34,11 @@ const skillsData = [
       { name: "GitHub", icon: "github.png" },
       { name: "Windows CLI", icon: "windowsCLI.png" },
       { name: "Linux CLI", icon: "Tux.svg.png" },
+      { name: "Storybook", icon: "storybook-icon.svg" },
+      { name: "Cypress", icon: "cypress.webp" },
     ],
   },
+
   {
     category: "Professional Skills",
     skills: [
