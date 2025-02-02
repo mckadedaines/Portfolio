@@ -31,7 +31,7 @@ const skillsData = [
       { name: "Git", icon: "git.png" },
       { name: "GitHub", icon: "github.png" },
       { name: "Windows CLI", icon: "windowsCLI.png" },
-      { name: "Linux CLI", icon: "tux.svg.png" },
+      { name: "Linux CLI", icon: "Tux.svg.png" },
     ],
   },
   {
