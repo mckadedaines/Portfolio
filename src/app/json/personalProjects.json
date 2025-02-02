@@ -3,7 +3,7 @@
     "imageUrl": "WeebWear.png",
     "name": "WeebWear",
     "description": "A web application that allows users to buy anime-related merchandise for the gym.",
-    "projectUrl": "weeb-wear-chi.vercel.app",
+    "projectUrl": "https://weeb-wear-chi.vercel.app",
     "tags": [
       "React",
       "Tailwind CSS",
