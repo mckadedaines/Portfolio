@@ -7,6 +7,8 @@ const skillsData = [
     skills: [
       { name: "React.js", icon: "React-icon.svg.png" },
       { name: "React Native", icon: "React-icon.svg.png" },
+      { name: "Vercel", icon: "Vercel_favicon.png" },
+      { name: "Typescript", icon: "Typescript.png" },
       { name: "Next.js", icon: "next-js-icon.png" },
       { name: "JavaScript", icon: "javascript-icon.png" },
       { name: "HTML5", icon: "html-5-icon.png" },
@@ -23,6 +25,7 @@ const skillsData = [
       { name: "Firebase", icon: "Firebase_icon.svg.png" },
       { name: "MongoDB", icon: "mongo.png" },
       { name: "Hasura", icon: "Hasura-icon.png" },
+      { name: "Bitbucket", icon: "bitbucket.webp" },
     ],
   },
   {
