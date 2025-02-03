@@ -1,8 +1,27 @@
 [
   {
+    "imageUrl": "financial-planner.png",
+    "name": "Financial Planner",
+    "description": "A comprehensive financial management application that enables users to track expenses, set budgets, and visualize financial goals through interactive charts and analytics. Implemented with real-time data synchronization and secure user authentication.",
+    "projectUrl": "https://financial-planner-azure.vercel.app/",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "MUI",
+      "Framer Motion",
+      "Next.js",
+      "Firebase",
+      "Node.js",
+      "framer-motion",
+      "recharts",
+      "API Integration"
+    ]
+  },
+
+  {
     "imageUrl": "WeebWear.png",
     "name": "WeebWear",
-    "description": "A web application that allows users to buy anime-related merchandise for the gym.",
+    "description": "An e-commerce platform prototype showcasing fitness apparel with unique designs. Features a responsive product catalog with dynamic filtering, interactive product displays, and a modern user interface built using Next.js and Zustand for state management.",
     "projectUrl": "https://weeb-wear-chi.vercel.app",
     "tags": [
       "React",
@@ -10,7 +29,8 @@
       "MUI",
       "Framer Motion",
       "Next.js",
-      "Zustand"
+      "Zustand",
+      "API Integration"
     ]
   },
   {
