@@ -38,6 +38,6 @@
     "name": "Event Discovery Platform",
     "description": "Created an intuitive event discovery application integrating the TicketMaster API, featuring real-time updates and interactive mapping capabilities.",
     "projectUrl": "https://mckadedaines.github.io/Local_Event_Finder/",
-    "tags": ["API Integration", "React", "Geolocation", "Real-time Data"]
+    "tags": ["API Integration", "Real-time Data", "HTML5", "CSS3", "JavaScript"]
   }
 ]
