@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl": "financial-planner.png",
+    "imageUrl": "images/financial-planner.png",
     "name": "Financial Planner",
     "description": "A comprehensive financial management application that enables users to track expenses, set budgets, and visualize financial goals through interactive charts and analytics. Implemented with real-time data synchronization and secure user authentication.",
     "projectUrl": "https://financial-planner-azure.vercel.app/",
@@ -19,7 +19,7 @@
   },
 
   {
-    "imageUrl": "WeebWear.png",
+    "imageUrl": "images/WeebWear.png",
     "name": "WeebWear",
     "description": "An e-commerce platform prototype showcasing fitness apparel with unique designs. Features a responsive product catalog with dynamic filtering, interactive product displays, and a modern user interface built using Next.js and Zustand for state management.",
     "projectUrl": "https://weeb-wear-chi.vercel.app",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "imageUrl": "Local-Event-Finder.png",
+    "imageUrl": "images/event-finder.png",
     "name": "Event Discovery Platform",
     "description": "Created an intuitive event discovery application integrating the TicketMaster API, featuring real-time updates and interactive mapping capabilities.",
     "projectUrl": "https://mckadedaines.github.io/Local_Event_Finder/",
