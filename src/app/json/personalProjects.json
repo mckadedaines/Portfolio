@@ -34,6 +34,14 @@
     ]
   },
   {
+    "imageUrl": "images/Three.js_Planets.png",
+    "name": "Three.js Planets",
+    "description": "A portfolio website built with Three.js, showcasing 3D models and animations. Features a responsive design and interactive elements built using React and Tailwind CSS.",
+    "projectUrl": "https://mckadedaines.github.io/Three.js_Planets/",
+
+    "tags": ["Three.js", "HTML", "JavaScript"]
+  },
+  {
     "imageUrl": "images/Typescript-Drawing.png",
     "name": "Typescript Drawing",
     "description": "A simple drawing application built with TypeScript, HTML, and CSS. It allows users to draw shapes and lines on a canvas.",
