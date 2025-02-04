@@ -34,7 +34,15 @@
     ]
   },
   {
+    "imageUrl": "images/Typescript-Drawing.png",
+    "name": "Typescript Drawing",
+    "description": "A simple drawing application built with TypeScript, HTML, and CSS. It allows users to draw shapes and lines on a canvas.",
+    "projectUrl": "https://mckadedaines.github.io/TypeScript-Drawing/",
+    "tags": ["TypeScript", "HTML", "CSS", "lite-server", "concurrently"]
+  },
+  {
     "imageUrl": "images/event-finder.png",
+
     "name": "Event Discovery Platform",
     "description": "Created an intuitive event discovery application integrating the TicketMaster API, featuring real-time updates and interactive mapping capabilities.",
     "projectUrl": "https://mckadedaines.github.io/Local_Event_Finder/",
